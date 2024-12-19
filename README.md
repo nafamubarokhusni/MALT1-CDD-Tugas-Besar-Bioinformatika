@@ -1,12 +1,15 @@
 ![Logo](logo.png)
 # MALT1-CDD-Tugas-Besar-Bioinformatika
-## Member
-1. Nama: Husni Na'fa Mubarok, NIM: 121450078
-2. Nama: Meliza Wulandari, NIM: 121450065
-3. Nama: Yosia Gilbert Wuaten, NIM: 118140174
-4. Nama: Dwi Nur Saleh, NIM: 120410090
-5. Nama: Nazwa Nabilla, NIM: 121450122
 
+# Team Members
+
+| Nama                  | NIM        |
+|-----------------------|------------|
+| Husni Na'fa Mubarok   | 121450078  |
+| Meliza Wulandari      | 121450065  |
+| Yosia Gilbert Wuaten  | 118140174  |
+| Dwi Nur Saleh         | 120410090  |
+| Nazwa Nabilla         | 121450122  |
 Repo ini berisi projek untuk memprediksi bioaktifitas gene Mucosa-associated lymphoid tissue lymphoma translocation protein 1 (MALT1).
 
 ## Project Structure
