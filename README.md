@@ -1,4 +1,4 @@
-# MALT1 Classification Project
+# MALT1 Prediction Project
 
 ## Description
 This repository contains a project for predicting Mucosa-associated lymphoid tissue lymphoma translocation protein 1 (MALT1) genes. This project is part of a larger bioinformatics study.
