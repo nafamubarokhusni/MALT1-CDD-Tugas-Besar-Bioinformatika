@@ -10,6 +10,7 @@
 | Yosia Gilbert Wuaten  | 118140174  |
 | Dwi Nur Saleh         | 120410090  |
 | Nazwa Nabilla         | 121450122  |
+
 Repo ini berisi projek untuk memprediksi bioaktifitas gene Mucosa-associated lymphoid tissue lymphoma translocation protein 1 (MALT1).
 
 ## Project Structure
